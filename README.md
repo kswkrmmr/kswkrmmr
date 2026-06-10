@@ -1,16 +1,22 @@
-## Hi there 👋
+# こんにちは
 
-<!--
-**kswkrmmr/kswkrmmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEとして8年半開発を行った後、
+東日本大震災でのボランティア活動をきっかけに飲食業へ転身。
 
-Here are some ideas to get you started:
+現在はこれまでの開発経験と異業種で培った経験を活かし、
+IT業界で新たなキャリアを築くため学習を続けています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Ruby
+- Ruby on Rails
+- JavaScript
+- React
+- PostgreSQL
+- Docker
+- Git / GitHub
+
+## Learning
+
+- オリジナルアプリ開発
+- AIを活用した開発
